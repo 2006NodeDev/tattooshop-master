@@ -1,0 +1,12 @@
+[submodule "tattooshop-user-service"]
+	path = tattooshop-user-service
+	url = https://github.com/2006NodeDev/tattooshop-user-service.git
+[submodule "tattooshop-booking-service"]
+	path = tattooshop-booking-service
+	url = https://github.com/2006NodeDev/tattooshop-booking-service.git
+[submodule "tattooshop-ui"]
+	path = tattooshop-ui
+	url = https://github.com/2006NodeDev/tattooshop-ui.git
+[submodule "tattooshop-deployments"]
+	path = tattooshop-deployments
+	url = https://github.com/2006NodeDev/tattooshop-deployments.git
